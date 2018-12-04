@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app will need access to your location to find the closest tunes near you!</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app will need access to your location to find the closest tunes near you!</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Need to access photos in order to add images</string>
 </dict>
 </plist>
